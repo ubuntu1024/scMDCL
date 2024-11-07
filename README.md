@@ -25,8 +25,6 @@ git clone https://github.com/ubuntu1024/scMDCL.git
 - ```ops_loss.py```: defines the Contrastive Learning loss
 - ```scMDCL.py```: defines the architecture of the whole network
 - ```main.py```: run the model
-- ```run.py```: conduct parameter analysis and ablation studies 
-- ```tsne_plot.ipynb```: t-SNE visualization
 
 #### Example command
 Take the dataset "PBMC-10k" as an example
