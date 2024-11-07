@@ -39,19 +39,19 @@ python main.py --name PBMC-10k
 | --------------------------- | ----------------------- | ----------------------- |
 | ***PBMC-10k***             | ***10x Multiome***      | ***https://support.10xgenomics.com/single-cell-multiome-atac-gex/datasets/1.0.0/pbmc_granulocyte_sorted_10k*** |
 | ***Ma-2020***             | ***SHARE-seq*** | ***https://scglue.readthedocs.io/en/latest/data.html***        |
-| ***PBMC-3K***          | ***10x Multiome***      | ***https://www.10xgenomics.com/resources/datasets/pbmc-from-a-healthy-donor-no-cell-sorting-3-k-1-standard-2-0-0***     |
-| ***PBMC-3K***          | ***10x Multiome***      | ***https://www.10xgenomics.com/resources/datasets/pbmc-from-a-healthy-donor-no-cell-sorting-3-k-1-standard-2-0-0***     |
+| ***Chen-2019***          | ***SHARE-seq***      | ***https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126074***     |
+| ***SLN206***          | ***CITE-seq***      | ***https://github.com/YosefLab/totalVI_reproducibility/tree/master/data***     |
 
 ## Comparison methods availability
 |  Method              | Source |
 | --------------------------- | ----------------------- |
 | ***scziDesk***             | ***https://github.com/xuebaliang/scziDesk*** |
 | ***scGAE***          | ***https://github.com/ZixiangLuo1161/scGAE***     |
-| ***scTAG***              | ***https://github.com/Philyzh8/scTAG*** |
 | ***DCCA***             | ***https://github.com/cmzuo11/DCCA***        |
-| ***DSIR***             | ***https://github.com/Polytech-bioinf/Deep-structure-integrative-representation***        |
 | ***DEMOC***             | ***https://github.com/LongLVv/DEMOC_code***        |
-| ***scMCs***             | ***http://www.sdu-idea.cn/codes.php?name=ScMCs***        |
+| ***scMIC***             | ***https://github.com/Zyl-SZU/scMIC***        |
+| ***scMFC***             | ***https://github.com/DayuHuu/scMFC***        |
+| ***scEMC***             | ***https://github.com/DayuHuu/scEMC***        |
 
 #### Quick start
 ```
