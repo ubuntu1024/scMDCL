@@ -14,7 +14,7 @@ The source code and input data of scMDCL
 ## Usage
 #### Clone this repo.
 ```
-git clone https://github.com/Zyl-SZU/scMDCL.git
+git clone https://github.com/ubuntu1024/scMDCL.git
 ```
 
 #### Code structure
@@ -30,12 +30,6 @@ git clone https://github.com/Zyl-SZU/scMDCL.git
 
 #### Example command
 Take the dataset "PBMC-10k" as an example
-
-- Step 1: Pre-training model
-```
-python main.py --name PBMC-10k --pretrain True
-```
-- Step 2: Formal training model with pre-trained model
 ```
 python main.py --name PBMC-10k
 ```
@@ -59,9 +53,8 @@ python main.py --name PBMC-10k
 | ***DEMOC***             | ***https://github.com/LongLVv/DEMOC_code***        |
 | ***scMCs***             | ***http://www.sdu-idea.cn/codes.php?name=ScMCs***        |
 
-## Triple-omics integration
 #### Quick start
 ```
-python ./src_triple/main.py --name dataset
+python main.py --name dataset
 ```
 
