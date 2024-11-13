@@ -1,3 +1,4 @@
+<img src="Model image/The architecture of scMDCL.png" width="700" height="500" />
 # scMDCL
 The source code and input data of scMDCL
 
