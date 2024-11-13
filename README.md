@@ -1,5 +1,5 @@
 # scMDCL
-<img src="Model image/The architecture of scMDCL.png" width="900" height="550" />
+<img src="Model image/Model of scMDCL.png" width="900" height="550" />
 The source code and input data of scMDCL
 
 ## Requirement
