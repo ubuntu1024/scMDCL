@@ -2,14 +2,14 @@
 The source code and input data of scMDCL
 
 ## Requirement
-- Pytorch --- 1.12.1
-- Python --- 3.8.16
-- Numpy --- 1.24.3
-- Scipy --- 1.10.1
-- Sklearn --- 1.2.2
+- Pytorch --- 2.0.1
+- Python --- 3.11.4
+- Numpy --- 1.24.4
+- Scipy --- 1.13.0
+- Sklearn --- 1.3.21
 - Munkres --- 1.1.4
-- tqdm ---4.65.0
-- Matplotlib ---3.7.1
+- tqdm ---4.66.1
+- Matplotlib ---3.7.2
 
 ## Usage
 #### Clone this repo.
