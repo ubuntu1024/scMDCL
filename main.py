@@ -19,7 +19,7 @@ def pretrain_gae(model, x, adj):
         a_hat = a + z_adj_hat
         loss_w = F.mse_loss(z_hat, torch.spmm(adj, x))
         loss_a = F.mse_loss(a_hat, adj.to_dense())
-        loss = loss_w + opt.args.alpha_value * loss_a
+        loss = loss_w + opt.args.alpha1 * loss_a
 
         optimizer.zero_grad()
         loss.backward()
